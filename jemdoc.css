@@ -79,8 +79,11 @@ hr {
 /* 卡片式容器，用于包裹每个主题块 */
 .boxed {
   border: 1px solid #ccc;
-  padding: 1rem;
-  margin-bottom: 2rem;
-  border-radius: 4px;
-  background: #fff;
+  padding-top:    0.1rem;
+  padding-bottom: 0.1rem;
+  padding-left:   1rem;
+  padding-right:  1rem;
+  margin-bottom:  1rem;
+  border-radius:  4px;
+  background:     #fff;
 }
